@@ -1,0 +1,9 @@
+{
+  "name": "python-api-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper package to force Python build on Vercel.",
+  "scripts": {
+    "build": "echo 'Skipping frontend build and proceeding with Vercel configuration.'",
+    "vercel-build": "echo 'Skipping default build.'"
+  }
+}
