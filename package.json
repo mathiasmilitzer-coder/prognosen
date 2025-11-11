@@ -1,0 +1,4 @@
+"dependencies": {
+  "next": "14.0.4", // oder die von Ihnen verwendete Version
+  // ... andere Abhängigkeiten
+},
