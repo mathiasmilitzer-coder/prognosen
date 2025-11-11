@@ -1,4 +1,3 @@
-
 # Importiert das Flask-Framework
 from flask import Flask
 
